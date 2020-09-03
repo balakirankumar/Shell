@@ -5,7 +5,7 @@ do
 		Dog) echo "You selected $option";;
 		Bird) echo "You selected $option";;
 		Fish) echo "You selected $option";;
-		Puppy) echo"You selected $option";;
+		Puppy) echo "You selected $option";;
 		Quit) break;;
 		*) echo "I am not Confident what u have selected";;
 	esac
