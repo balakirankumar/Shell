@@ -1,0 +1,8 @@
+echo "KIRANKUMAR" | tr 'A-za-z' 'N-ZA-Mn-za-m'
+echo "XVENAXHZNE" | tr 'N-ZA-Mn-za-m' 'A-za-z'
+
+
+
+
+XVENAXHZNE
+KIRANKUMAR
